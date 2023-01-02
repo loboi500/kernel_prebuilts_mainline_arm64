@@ -1,0 +1,6 @@
+abi.xml filter=lfs diff=lfs merge=lfs -text
+kernel-mainline-allsyms filter=lfs diff=lfs merge=lfs -text
+kernel-mainline-gz-allsyms filter=lfs diff=lfs merge=lfs -text
+kernel-mainline-lz4-allsyms filter=lfs diff=lfs merge=lfs -text
+prebuilt-info.txt filter=lfs diff=lfs merge=lfs -text
+System.map-allsyms filter=lfs diff=lfs merge=lfs -text
